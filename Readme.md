@@ -27,7 +27,7 @@ Make sure you have the following installed:
 1. Clone the repository:
 
     ```bash
-    https://github.com/hashABCD/Ollama-Chatbot-YT.git
+    git clone https://github.com/hashABCD/Ollama-Chatbot-YT.git
     ```
 
 2. Navigate to the project directory:
